@@ -6,7 +6,7 @@
             "titles": ["Moment, was mache ich hier?","Ähh... wie funktioniert das hier?","Was? Wo bin ich?"],
             "minChallenges":4,
             "maxChallenges":4,
-            "mission": "Beende alle Missionen",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 4000,
             "enemiesPerChallenge": {
                 "1": {
@@ -69,10 +69,10 @@
         {
             "id":"Easy",
             "difficulty": 1,
-            "titles": [ "Autsch! Meine Knochen!", "Leiden, Leiden, überall!", "Die Qualen hören nie auf!","Es schmerzt!","Ich hab' Angst!";"Ich muss raus!"],
+            "titles": [ "Autsch! Meine Knochen!", "Die Qualen hören nie auf!", "Es schmerzt!", "Ich hab' Angst!" ],
             "minChallenges":4,
             "maxChallenges":4,
-            "mission": "Beende alle Missionen",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 6000,
             "enemiesPerChallenge": {
                 "1": {
@@ -138,7 +138,7 @@
             "selectable": true,
             "unlockType": "Gauntlet",
             "unlockTitle": "Einfach",
-            "unlockDescription": "Zeit für das Eigentliche! Nutze die PRALLBÄLLE, um schwierigere Gegner besser besiegen zu können!"
+            "unlockDescription": "Zeit für das Eigentliche! Nutzt die PRALLBÄLLE, um schwierigere Gegner besser besiegen zu können!"
         },
         {
             "id":"Medium",
@@ -146,7 +146,7 @@
             "titles": [ "Ahhh! So viel Blut!", "Bitte nicht!", "Warum tut ihr mir das an?!","Alles und jeder explodiert!","Der unertragbare Schmerz!","Bitte lasst mich doch einfach gehen!", "Wer mag Traumata?"],
             "minChallenges":5,
             "maxChallenges":5,
-            "mission": "Beende alle Missionen",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 10000,
             "enemiesPerChallenge": {
                 "1": {
@@ -222,7 +222,7 @@
             "titles": [ "Leichen überall!", "Ich kann meine Beine nicht mehr spüren!", "Ich brenne!!!","Bitte tötet mich!","Tod! Tod! Tod!", "So viel Gemetzel!","Arzt! Arzt!" ],
             "minChallenges":5,
             "maxChallenges":5,
-            "mission": "Beende alle Missionen",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 15000,
             "enemiesPerChallenge": {
                 "1": {
@@ -290,7 +290,7 @@
             "selectable": true,
             "unlockType": "Gauntlet",
             "unlockTitle": "Gestört",
-            "unlockDescription": "Schleudere dich durch Portale!"
+            "unlockDescription": "Schleudert euch durch ein Portal und springt aus dem anderen heraus!"
             
         },
         {
@@ -299,7 +299,7 @@
             "titles": [ "Der blanke Horror!", "Lasst es enden!", "AAAAAAAHHHHH!!!!" ],
             "minChallenges":6,
             "maxChallenges":6,
-            "mission": "Beende alle Missionen",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 20000,
             "enemiesPerChallenge": {
                 "1": {
@@ -366,8 +366,8 @@
             "prizeGate": 400000,
             "selectable": false,
             "unlockType": "difficulty",
-            "unlockTitle": "Völliger Wahnsinn",
-            "unlockDescription": "Völliger Wahnsinn! Überlebe MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen"
+            "unlockTitle": "Blanker Wahnsinn",
+            "unlockDescription": "Blanker Wahnsinn! Überlebt MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen"
         },
         {
             "id":"XXtreme",
@@ -442,8 +442,8 @@
             "prizeGate": 600000,
             "selectable": false,
             "unlockType": "difficulty",
-            "unlockTitle": "Hölle, Hölle, Hölle, Hölle",
-            "unlockDescription": "Überlebe GESTÖRT, um diese finale Mission zu erreichen!"
+            "unlockTitle": "Hölle",
+            "unlockDescription": "Das ist Wahnsinn! Überlebt GESTÖRT, um diese finale Mission zu erreichen!"
         }
     ]
 }
