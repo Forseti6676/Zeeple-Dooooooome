@@ -136,9 +136,9 @@
             ],
             "prizeGate": 4500,
             "selectable": true,
-            "unlockType": "Gauntlet",
+            "unlockType": "Gemetzel",
             "unlockTitle": "Einfach",
-            "unlockDescription": "Zeit für das Eigentliche! Nutzt die PRALLBÄLLE, um schwierigere Gegner besser besiegen zu können!"
+            "unlockDescription": "Zeit fürs Eingemachte! Nutzt die PRALLBÄLLE, um schwierigere Gegner besser besiegen zu können!"
         },
         {
             "id":"Medium",
@@ -211,7 +211,7 @@
             ],
             "prizeGate": 80000,
             "selectable": true,
-            "unlockType": "Gauntlet",
+            "unlockType": "Gemetzel",
             "unlockTitle": "Medium",
             "unlockDescription": "Arbeitet zusammen, um FARBBARRIEREN zu durchqueren!"
             
@@ -288,9 +288,9 @@
             ],
             "prizeGate": 200000,
             "selectable": true,
-            "unlockType": "Gauntlet",
+            "unlockType": "Gemetzel",
             "unlockTitle": "Gestört",
-            "unlockDescription": "Schleudert euch durch ein Portal und springt aus dem anderen heraus!"
+            "unlockDescription": "Schleudert euch durch ein PORTAL und springt aus dem anderen heraus!"
             
         },
         {
@@ -365,7 +365,7 @@
             ],
             "prizeGate": 400000,
             "selectable": false,
-            "unlockType": "difficulty",
+            "unlockType": "Schwierigkeit",
             "unlockTitle": "Blanker Wahnsinn",
             "unlockDescription": "Blanker Wahnsinn! Überlebt MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen"
         },
@@ -441,7 +441,7 @@
             ],
             "prizeGate": 600000,
             "selectable": false,
-            "unlockType": "difficulty",
+            "unlockType": "Schwierigkeit",
             "unlockTitle": "Hölle, Hölle, Hölle, Hölle",
             "unlockDescription": "Das ist Wahnsinn! Überlebt GESTÖRT, um diese finale Mission zu erreichen!"
         }
