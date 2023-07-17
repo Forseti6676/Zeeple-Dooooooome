@@ -213,7 +213,7 @@
             "selectable": true,
             "unlockType": "Gauntlet",
             "unlockTitle": "Medium",
-            "unlockDescription": "Koordiniere mit deinem Team, um FARBBARRIEREN zu durchqueren!"
+            "unlockDescription": "Arbeitet zusammen, um FARBBARRIEREN zu durchqueren!"
             
         },
         {
@@ -290,7 +290,7 @@
             "selectable": true,
             "unlockType": "Gauntlet",
             "unlockTitle": "Gestört",
-            "unlockDescription": "Schleudert durch ein Portal und springt aus dem anderen heraus!"
+            "unlockDescription": "Schleudere dich durch Portale!"
             
         },
         {
@@ -367,7 +367,7 @@
             "selectable": false,
             "unlockType": "difficulty",
             "unlockTitle": "Völliger Wahnsinn",
-            "unlockDescription": "Völliger Wahnsinn! Überlebt MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen"
+            "unlockDescription": "Völliger Wahnsinn! Überlebe MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen"
         },
         {
             "id":"XXtreme",
@@ -443,7 +443,7 @@
             "selectable": false,
             "unlockType": "difficulty",
             "unlockTitle": "Hölle, Hölle, Hölle, Hölle",
-            "unlockDescription": "Überlebt GESTÖRT, um diese finale Mission zu erreichen!"
+            "unlockDescription": "Überlebe GESTÖRT, um diese finale Mission zu erreichen!"
         }
     ]
 }
