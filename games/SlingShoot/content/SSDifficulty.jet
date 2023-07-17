@@ -69,7 +69,7 @@
         {
             "id":"Easy",
             "difficulty": 1,
-            "titles": [ "Autsch! Meine Knochen!", "Leiden, Leiden, überall!", "Die Qualen hören nie auf!","Es schmerzt!","Ich hab' Angst!" ],
+            "titles": [ "Autsch! Meine Knochen!", "Leiden, Leiden, überall!", "Die Qualen hören nie auf!","Es schmerzt!","Ich hab' Angst!";"Ich muss raus!"],
             "minChallenges":4,
             "maxChallenges":4,
             "mission": "Beende alle Missionen",
