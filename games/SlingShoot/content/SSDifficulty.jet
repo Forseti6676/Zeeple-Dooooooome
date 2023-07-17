@@ -138,7 +138,7 @@
             "selectable": true,
             "unlockType": "Gauntlet",
             "unlockTitle": "Einfach",
-            "unlockDescription": "Zeit für das Eigentliche! Pralle von BUMPERN ab, um schwierigere Gegner besser besiegen zu können!"
+            "unlockDescription": "Zeit für das Eigentliche! Nutze die PRALLBÄLLE, um schwierigere Gegner besser besiegen zu können!"
         },
         {
             "id":"Medium",
@@ -289,7 +289,7 @@
             "prizeGate": 200000,
             "selectable": true,
             "unlockType": "Gauntlet",
-            "unlockTitle": "Insane",
+            "unlockTitle": "Gestört",
             "unlockDescription": "Schleudert durch ein Portal und springt aus dem anderen heraus!"
             
         },
@@ -366,8 +366,8 @@
             "prizeGate": 400000,
             "selectable": false,
             "unlockType": "difficulty",
-            "unlockTitle": "Utter Madness",
-            "unlockDescription": "Völliger Wahnsinn! Überlebt MEDIUM oder INSANE, um dieses Gemetzel zu erreichen"
+            "unlockTitle": "Völliger Wahnsinn",
+            "unlockDescription": "Völliger Wahnsinn! Überlebt MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen"
         },
         {
             "id":"XXtreme",
@@ -442,8 +442,8 @@
             "prizeGate": 600000,
             "selectable": false,
             "unlockType": "difficulty",
-            "unlockTitle": "Hell",
-            "unlockDescription": "Überlebt INSANE, um diese finale Mission zu erreichen!"
+            "unlockTitle": "Hölle, Hölle, Hölle, Hölle",
+            "unlockDescription": "Überlebt GESTÖRT, um diese finale Mission zu erreichen!"
         }
     ]
 }
