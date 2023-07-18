@@ -182,7 +182,7 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 10000,
             "unlockType": "Gegner",
-            "unlockTitle": "Yawg Bomber",
+            "unlockTitle": "Glotzbomber",
             "unlockDescription": "Diese Viecher explodieren, wenn sie sterben!"
         },
         {
@@ -229,7 +229,7 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 100000,
             "unlockType": "Gegner",
-            "unlockTitle": "Glurb Tracker",
+            "unlockTitle": "Schmeißfliege",
             "unlockDescription": "Schleudert euch davon, wenn sie euch anvisieren!"
         },
         {
@@ -276,8 +276,8 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 300000,
             "unlockType": "Gegner",
-            "unlockTitle": "Chu-chon",
-            "unlockDescription": "Synthetisieren kleine Chu-Chons! Greift sie mit der passenden Farbe an, bevor sie angreifen!"
+            "unlockTitle": "Tornadion",
+            "unlockDescription": "Erschafft viele Mini-Tornadions! Greift sie mit der passenden Farbe an, bevor sie angreifen!"
         },
         {
             "id":"MinionEnemy",
@@ -445,8 +445,8 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 175000,
             "unlockType": "Gegner",
-            "unlockTitle": "Stunley",
-            "unlockDescription": "Stoßt gegen betäubte Kameraden, um sie aufzuwecken!"
+            "unlockTitle": "Narcosius",
+            "unlockDescription": "Stoßt gegen paralysierte Kameraden, um sie aufzuwecken!"
             
         }
     ]
