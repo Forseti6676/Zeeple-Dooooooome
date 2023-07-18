@@ -90,7 +90,7 @@
         "EXTENDED_TIMERS": "Längere Timer",
         "EXTENDED_TIMERS_DESCRIPTION": "Längere Timer geben dir mehr Zeit zum Antworten. Geeignet für Livestreams.",
         "MAX_PLAYERS": "Max. Spieler",
-        "MAX_PLAYERS_DESCRIPTION": "Die maximale Spieleranzahl, bevor neue Spieler ins Publikum weitergeleitet werden.",
+        "MAX_PLAYERS_DESCRIPTION": "Die maximale Spieleranzahl.",
         "PLAYER_NAME": "Spielername",
         "HIGH_SCORE": "Höchstpunktzahl",
         "AVERAGE_SCORE": "Durchschnittliche Punktzahl",
