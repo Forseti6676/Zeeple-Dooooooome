@@ -276,8 +276,8 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 300000,
             "unlockType": "Gegner",
-            "unlockTitle": "Tornadion",
-            "unlockDescription": "Erschafft viele Mini-Tornadions! Greift sie mit der passenden Farbe an, bevor sie angreifen!"
+            "unlockTitle": "Zirkularum",
+            "unlockDescription": "Erschafft viele kleine Zirkulis! Greift sie mit der passenden Farbe an, bevor sie angreifen!"
         },
         {
             "id":"MinionEnemy",
