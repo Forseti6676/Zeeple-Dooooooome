@@ -393,9 +393,9 @@
             "reward": 600,
             "rewardDifficultyBuff": 0,
             "prizeGate": 350000,
-            "unlockType": "Enemy",
-            "unlockTitle": "Hargon Hunter",
-            "unlockDescription": "Rescue your friend if a Hargon eats them!"
+            "unlockType": "Gegner",
+            "unlockTitle": "Raffzahn",
+            "unlockDescription": "Rettet eure Kameraden, wenn sie von einem Raffzahn gefressen werden!"
         },
         {
             "id":"AbsorberEnemy",
