@@ -219,7 +219,7 @@
         {
             "id":"Hard",
             "difficulty": 3,
-            "titles": [ "Leichen überall!", "Ich kann meine Beine nicht mehr spüren!", "Ich brenne!!!","Bitte tötet mich!","Tod! Tod! Tod!", "So viel Gemetzel!","Arzt! Arzt!" ],
+            "titles": [ "Leichen überall!", "Ich kann meine Beine nicht mehr spüren!", "Ich brenne!!!","Bitte tötet mich!","Tod! Tod! Tod!", "So viel Gemetzel!","Holt einen Arzt!" ],
             "minChallenges":5,
             "maxChallenges":5,
             "mission": "Beendet alle Missionen",
@@ -367,7 +367,7 @@
             "selectable": false,
             "unlockType": "Schwierigkeit",
             "unlockTitle": "Blanker Wahnsinn",
-            "unlockDescription": "Blanker Wahnsinn! Überlebt MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen"
+            "unlockDescription": "Blanker Wahnsinn! Überlebt MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen!"
         },
         {
             "id":"XXtreme",
