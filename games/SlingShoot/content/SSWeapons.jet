@@ -78,7 +78,7 @@
         {
             "id":"SuperBlaster",
             "title":"Pulverisierung",
-            "description":"Ein Angriff, der dem Spieler sehr viel stärkere Explosionen verleiht",
+            "description":"Ein Angriff, der sehr viel stärkere Explosionen verleiht",
             "group":"effect",
             "explosion":"SS_SuperBlasterExplosion",
             "audioLinkage": "sfx/explosion_super_blaster_3d",

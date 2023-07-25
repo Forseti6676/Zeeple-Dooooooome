@@ -219,7 +219,7 @@
         {
             "id":"Hard",
             "difficulty": 3,
-            "titles": [ "Leichen überall!", "Ich kann meine Beine nicht mehr spüren!", "Ich brenne!!!","Bitte tötet mich!","Tod! Tod! Tod!", "So viel Gemetzel!","Holt einen Arzt!" ],
+            "titles": [ "Leichen überall!", "Ich kann meine Beine nicht mehr spüren!", "Ich brenne!!!","Bitte tötet mich!","Tod! Tod! Tod!", "So viel Gemetzel!","Holt einen Arzt!","Ich will zu Mami!" ],
             "minChallenges":5,
             "maxChallenges":5,
             "mission": "Beendet alle Missionen",
@@ -442,7 +442,7 @@
             "prizeGate": 600000,
             "selectable": false,
             "unlockType": "Schwierigkeit",
-            "unlockTitle": "Hölle, Hölle, Hölle, Hölle",
+            "unlockTitle": "Hölle Hölle Hölle Hölle",
             "unlockDescription": "Das ist Wahnsinn! Überlebt GESTÖRT, um diese finale Mission zu erreichen!"
         }
     ]
